@@ -26,7 +26,7 @@ Se pretenden desarrollar las siguientes interfaces:
 
 ESTUDIANTES
 
-Santiago Alejandro Pérez Solarte sapas_29@unicauca.edu.co
+Santiago Alejandro Pérez Solarte sapa_29@unicauca.edu.co
 
 Juan Sebastián juanmontano@unicauca.edu.co
 
